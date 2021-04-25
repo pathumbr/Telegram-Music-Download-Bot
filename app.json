@@ -1,0 +1,37 @@
+{
+    "name": "TG MP3 Download Bot",
+    "description": "A bot that can download songs.",
+    "env": {
+        "API_ID": {
+            "description": "Get this value from my.telegram.org.",
+            "required": true
+        },
+        "API_HASH": {
+            "description": "Get this value from my.telegram.org.",
+            "required": true
+        },
+        "BOT_TOKEN": {
+            "description": "Get this value by making a bot from @BotFather.",
+            "required": true
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ],
+    "addons": [
+        {
+            "plan": "heroku-postgresql",
+            "options": {
+                "version": "12"
+            }
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
