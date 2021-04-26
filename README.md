@@ -24,10 +24,6 @@
 
 `/mp3 Song Name` : To Download youre Mp3.
 
-## Contributing
-
-Feel free to contribute to this project if you have any further ideas
-
 ## Credits
 
 - Jason
