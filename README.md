@@ -17,8 +17,6 @@
 <hr>
 
 ## How to use the bot
-
-:warning: **Before using the  bot, don't forget to add the bot to the `BIN_CHANNEL` as an admin**
  
 `/start` : To check if the bot is alive or not.
 
