@@ -6,7 +6,7 @@
   <p align="center">
     A Telegram bot to stream files to web
     <br />
-    <a href="https://telegram.dog/TG_FileStreamBot"><strong>BOT Demo »</strong></a>
+    <a href="https://telegram.dog/mp3downloadtgbot"><strong>BOT Demo »</strong></a>
     <br />
     <a target="blank" href="https://heroku.com/deploy?template=https://github.com/hirunaofficial/Telegram-Music-Download-Bot">Deploy to Heroku</a>
     |
