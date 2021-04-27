@@ -5,8 +5,6 @@
   </a>
 </p>
 
-<hr>
-
 ## How to use the bot
  
 `/start` : To check if the bot is alive or not.
